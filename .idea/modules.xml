@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" filepath="$PROJECT_DIR$/spring-boot-01-helloworld/spring-boot-01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-02-config/spring-boot-02-config.iml" filepath="$PROJECT_DIR$/spring-boot-02-config/spring-boot-02-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-02-config-02/spring-boot-02-config-02.iml" filepath="$PROJECT_DIR$/spring-boot-02-config-02/spring-boot-02-config-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-02-config-autoconfig/spring-boot-02-config-autoconfig.iml" filepath="$PROJECT_DIR$/spring-boot-02-config-autoconfig/spring-boot-02-config-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" filepath="$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-04-web-restfulcrud/spring-boot-04-web-restfulcrud.iml" filepath="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/spring-boot-04-web-restfulcrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data/spring-boot-06-data.iml" filepath="$PROJECT_DIR$/spring-boot-06-data/spring-boot-06-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-07/spring-boot-07.iml" filepath="$PROJECT_DIR$/spring-boot-07/spring-boot-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot_study2.iml" filepath="$PROJECT_DIR$/.idea/springboot_study2.iml" />
+    </modules>
+  </component>
+</project>
